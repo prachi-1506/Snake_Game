@@ -1,10 +1,10 @@
-Snake Game in Python with Tkinter
+Snake Game in Python using turtle module
 
 Overview
-This is a classic Snake Game implemented in Python using the Tkinter library for the graphical user interface. The game follows the traditional rules, where the player controls a snake that moves around the screen, eating food to grow longer while avoiding collisions with the walls and itself. The goal is to achieve the highest possible score before the game ends.
+This is a classic Snake Game implemented in Python using the turtle library for the graphical user interface. The game follows the traditional rules, where the player controls a snake that moves around the screen, eating food to grow longer while avoiding collisions with the walls and itself. The goal is to achieve the highest possible score before the game ends.
 
 Features
-Responsive GUI: Built with Tkinter for a simple and intuitive graphical interface.
+Responsive GUI: Built with turtle for a simple and intuitive graphical interface.
 Scoring System: Keep track of your score as you consume more food.
 Difficulty Levels: Adjust the game speed to your liking with different difficulty levels.
 Game Over Screen: A clear display when the game ends, showing your final score.
