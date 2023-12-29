@@ -27,3 +27,10 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 License
 This Snake Game is open-source and available under the MIT License.
+
+Output:-
+
+
+https://github.com/prachi-1506/Snake_Game/assets/134043449/f76b5535-92e6-4a7b-b9a7-98b4fc0b7da2
+
+
